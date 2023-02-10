@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\bin\Debug\net7.0\InvestimentoALongoPrazo.exe
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\bin\Debug\net7.0\InvestimentoALongoPrazo.deps.json
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\bin\Debug\net7.0\InvestimentoALongoPrazo.runtimeconfig.json
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\bin\Debug\net7.0\InvestimentoALongoPrazo.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\bin\Debug\net7.0\InvestimentoALongoPrazo.pdb
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\obj\Debug\net7.0\InvestimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\obj\Debug\net7.0\InvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\obj\Debug\net7.0\InvestimentoALongoPrazo.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\obj\Debug\net7.0\InvestimentoALongoPrazo.AssemblyInfo.cs
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\obj\Debug\net7.0\InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\obj\Debug\net7.0\InvestimentoALongoPrazo.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\obj\Debug\net7.0\refint\InvestimentoALongoPrazo.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\obj\Debug\net7.0\InvestimentoALongoPrazo.pdb
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\obj\Debug\net7.0\InvestimentoALongoPrazo.genruntimeconfig.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\InvestimentoALongoPrazo\obj\Debug\net7.0\ref\InvestimentoALongoPrazo.dll

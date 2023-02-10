@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\bin\Debug\net7.0\Calculo de poupanca - FOR.exe
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\bin\Debug\net7.0\Calculo de poupanca - FOR.deps.json
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\bin\Debug\net7.0\Calculo de poupanca - FOR.runtimeconfig.json
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\bin\Debug\net7.0\Calculo de poupanca - FOR.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\bin\Debug\net7.0\Calculo de poupanca - FOR.pdb
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\obj\Debug\net7.0\Calculo de poupanca - FOR.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\obj\Debug\net7.0\Calculo de poupanca - FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\obj\Debug\net7.0\Calculo de poupanca - FOR.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\obj\Debug\net7.0\Calculo de poupanca - FOR.AssemblyInfo.cs
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\obj\Debug\net7.0\Calculo de poupanca - FOR.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\obj\Debug\net7.0\Calculo de poupanca - FOR.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\obj\Debug\net7.0\refint\Calculo de poupanca - FOR.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\obj\Debug\net7.0\Calculo de poupanca - FOR.pdb
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\obj\Debug\net7.0\Calculo de poupanca - FOR.genruntimeconfig.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\Calculo de poupanca - FOR\obj\Debug\net7.0\ref\Calculo de poupanca - FOR.dll

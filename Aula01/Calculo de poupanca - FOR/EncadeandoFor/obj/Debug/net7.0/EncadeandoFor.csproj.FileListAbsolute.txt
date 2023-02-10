@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\bin\Debug\net7.0\EncadeandoFor.exe
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\bin\Debug\net7.0\EncadeandoFor.deps.json
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\bin\Debug\net7.0\EncadeandoFor.runtimeconfig.json
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\bin\Debug\net7.0\EncadeandoFor.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\bin\Debug\net7.0\EncadeandoFor.pdb
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\obj\Debug\net7.0\EncadeandoFor.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\obj\Debug\net7.0\EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\obj\Debug\net7.0\EncadeandoFor.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\obj\Debug\net7.0\EncadeandoFor.AssemblyInfo.cs
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\obj\Debug\net7.0\EncadeandoFor.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\obj\Debug\net7.0\EncadeandoFor.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\obj\Debug\net7.0\refint\EncadeandoFor.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\obj\Debug\net7.0\EncadeandoFor.pdb
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\obj\Debug\net7.0\EncadeandoFor.genruntimeconfig.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Calculo de poupanca - FOR\EncadeandoFor\obj\Debug\net7.0\ref\EncadeandoFor.dll

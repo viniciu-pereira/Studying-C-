@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\bin\Debug\net7.0\Curso_CS.exe
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\bin\Debug\net7.0\Curso_CS.deps.json
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\bin\Debug\net7.0\Curso_CS.runtimeconfig.json
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\bin\Debug\net7.0\Curso_CS.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\bin\Debug\net7.0\Curso_CS.pdb
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\obj\Debug\net7.0\Curso_CS.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\obj\Debug\net7.0\Curso_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\obj\Debug\net7.0\Curso_CS.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\obj\Debug\net7.0\Curso_CS.AssemblyInfo.cs
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\obj\Debug\net7.0\Curso_CS.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\obj\Debug\net7.0\Curso_CS.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\obj\Debug\net7.0\refint\Curso_CS.dll
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\obj\Debug\net7.0\Curso_CS.pdb
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\obj\Debug\net7.0\Curso_CS.genruntimeconfig.cache
+C:\Users\vinic\Documents\Cursos\C#\Studying-C-\Aula01\Curso_CS\obj\Debug\net7.0\ref\Curso_CS.dll
